@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![MasterHead](![git](https://github.com/user-attachments/assets/f4b2f21a-4a0e-45b1-9e5e-e73e1f469fdc)))]
+[![MasterHead](![git](https://github.com/user-attachments/assets/396f4302-0b88-4d2d-af8b-b5c812f599b6)))]
 <h1 align="center">Hi 👋, I'm Yasith Imalka</h1>
 <h3 align="center">A Computer Science and Engineering student from University of Moratuwa</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
